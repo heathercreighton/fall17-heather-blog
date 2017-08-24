@@ -1,0 +1,44 @@
+.red {
+  float: left;
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	border-radius: 300px 0px 0px 0px;
+	margin:0px 5px 0px 0px;
+	text-align: center;
+}
+
+.yellow {
+	overflow: hidden;
+	text-align: center;
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	border-radius: 0px 300px 0px 0px;
+	margin: 0px 0px 5px 0px;
+}
+.blue {
+	float: left;
+	text-align: center;
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	border-radius: 0px 0px 0px 300px;
+	margin: 0px 5px 0px 0px;
+}
+.green {
+	overflow: hidden;
+
+	text-align:center;
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	border-radius: 0px 0px 300px 0px;
+	
+}
+
+p {
+	padding: 125px;
+	color: white;
+
+}
